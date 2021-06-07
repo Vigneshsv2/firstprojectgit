@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="ASG Automation(failed)">
+    <classes>
+      <class name="com.hps.testCases.WebexAutomation">
+        <methods>
+          <include name="WebexAutomation"/>
+        </methods>
+      </class> <!-- com.hps.testCases.WebexAutomation -->
+    </classes>
+  </test> <!-- ASG Automation(failed) -->
+</suite> <!-- Failed suite [Suite] -->
